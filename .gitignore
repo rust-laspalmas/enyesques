@@ -1,0 +1,13 @@
+/sitehome
+/config
+target
+Cargo.lock
+.DS_Store
+.idea
+workspace.code-workspace
+shunit2
+._.DS_Store
+.VSCodeCounter
+wrks
+tmp
+local_bin
