@@ -14,9 +14,9 @@ Eres novato(a) y no sabes cómo empezar o tras hacer ciertas cosas ver qué podr
 
 Es algo que haremos juntos, que ocurrirá sólo en ese preciso momento del encuentro cara a cara, lo que sueceda durante y/o después no lo sabemos ni lo garantizamos, pero si estamos abiertos y ansiosos por descubrirlo.
 
-Y qué mejor manera de encontranos que entorno a una mesa disfrutando de manjares elaborados con cariño y cuidado para la ocasión, celebrando los méritos y/o el valor de [Rust](https://www.rust-lang.org/) como ecosistema con sus defectos y virtudes. Claro, que al final es un pretexto para conocernos, encontrarnos y disfrutar de buena comida.
+Y qué mejor manera de encontranos que entorno a una mesa disfrutando de manjares elaborados con cariño y cuidado para la ocasión, celebrando los méritos y/o el valor de usar [Rust](https://www.rust-lang.org/) como ecosistema con sus defectos y virtudes. Claro, que al final es un pretexto para conocernos, encontrarnos y disfrutar de buena comida en compañía.
 
-Crecer con otros y caminar acompañado es un privilegio que a veces no se da con frecuencia, salvo que queramos incluir Copilot, codespaces, los mensajes del compilador de [Rust](https://www.rust-lang.org/), etc en la misma ecuación. Algunos pensamos que francamente no es lo mismo.
+Crecer con otros y caminar acompañado es un privilegio que a veces no se da con frecuencia, salvo que queramos incluir Copilot, codespaces, los mensajes del compilador de [Rust](https://www.rust-lang.org/), etc. en la misma ecuación. Algunos pensamos que francamente no es lo mismo.
 
 No tienes que tener un nivel o experiencia determinados, pero si iniciativa, valor y proactividad, hay que hacer y ayudar sobre la marcha durante el encuentro.
 
@@ -30,7 +30,7 @@ Se trata de algo informal y en pequeñito, para la grandielocuencia, el bombo y 
 
 Y como hay que ofrecer una experiencia saludable y de calidad al más alto nivel, pedimos a cada asistente que contribuya con **19 euros** para sufragar los gastos básicos, no los de elaboración, te pediremos que no traigas comida o bebida adicional, contigo ya es más que suficiente. Haremos lista de espera llegado el caso.
 
-Si tienes cualquier duda, pregunta, suguerencia y/o intoleracia o restricción alimentaria (no atendemos alérgias al COBOL, PHP, etc) estamos a tu disposición por cualquiera de los canales (email, Discord).
+Si tienes cualquier duda, pregunta, suguerencia y/o intoleracia o restricción alimentaria (no atendemos alérgias al COBOL, PHP, etc.) estamos a tu disposición por cualquiera de los canales (email, Discord).
 
 Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadores, si tienes experiencia con [Rust](https://www.rust-lang.org/) notarás que tiene alegorías, si no las entiendes ya tendremos oportunidad de comentarlas en el ecuentro. No es que vayamos a hablar de ello seguro, es simplemente parte del maridage entre cocina y programación en [Rust](https://www.rust-lang.org/).
 
