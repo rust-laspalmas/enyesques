@@ -76,3 +76,4 @@ Organizadores, responables de cocina:
 - Constantin Bosse (responsable de [Nautilus](https://nautilus-cyberneering.de/))
 - José Celano
 - Jesús Pérez
+
