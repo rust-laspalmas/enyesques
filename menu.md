@@ -13,7 +13,7 @@
 4 - Cocktail al Cargo, optimizado la performace.
 
 > Ingredientes mayormente locales
-> Ovolacto Vegetariano con opciones alterntaivas sin lactosa, gluten y soja
+> Ovolacto Vegetariano con opciones alternativas sin lactosa, gluten y soja
 > Eludiendo azúcares añadidos y procesados
 
 **Precio por persona 19 euros**
