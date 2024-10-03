@@ -20,13 +20,11 @@ Crecer con otros y caminar acompañado es un privilegio que a veces no se da con
 
 No tienes que tener un nivel o experiencia determinados, pero si iniciativa, valor y proactividad, hay que hacer y ayudar sobre la marcha durante el encuentro.
 
-Hemos elaborado una propuesta abierta, con metáforas, alusiones y guiños para que sea una aventura, una experiencia única, cuando menos diferente.
+Hemos elaborado una propuesta abierta, informal y sencilla con metáforas, alusiones y guiños para que sea una aventura, una experiencia única, cuando menos diferente.
 
-> [Nautilus](https://nautilus-cyberneering.de/), empresa local en Santa Brígida<br>
+> [Nautilus](https://nautilus-cyberneering.de/), empresa local en [C. Fernando Guanarteme 14 Santa Brígida Las Palmas](https://maps.app.goo.gl/ecUfxkpjKJPr6wuLA) entrada por arriba (candela)<br>
 > nos ofrece sus oficinas, cocina inlcuída (dato importante), para que podamos celebrar el encuentro <br>
 > **24 de Ocubre de 17:30 a 21:30** con **aforo limitado a 10 personas**
-
-Se trata de algo informal y en pequeñito, para la grandielocuencia, el bombo y platillo, etc ya están otros lenguajes de programación y convocatorias.
 
 Y como hay que ofrecer una experiencia saludable y de calidad al más alto nivel, pedimos a cada asistente que contribuya con **19 euros** para sufragar los gastos básicos, no los de elaboración, te pediremos que no traigas comida o bebida adicional, contigo ya es más que suficiente. Haremos lista de espera llegado el caso.
 
@@ -63,3 +61,9 @@ Si no puedes asistir y te interesa lo que hacemos puedes unirte a nuestro [servi
 > **¡Esperamos tu participación en vivo y en directo !**
 
 <a href="https://rust-laspalmas.dev"><img style="margin: 1em 0em;border: 0" width="250" alt="Enyesque Rust Las Palmas Dev" src="images/enyesque-rust-laspalmas.svg"></a>
+
+Organizadores, responables de cocina:
+
+José Celano
+Constantin Bosse
+Jesús Pérez
