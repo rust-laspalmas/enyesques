@@ -8,7 +8,7 @@ Te invitamos a un encuentro diseñado para facilitar conversaciones cara a cara 
 
 La propuesta es interactiva, la vamos completando sobre la marcha en común.
 
-Traes tus inquietudes / problemas con [Rust](https://www.rust-lang.org/), los temas en los que estás trabajando o te gustaría participar, tus descubrimientos sobre [Rust](https://www.rust-lang.org/), esa parte de código con la que no avanzas o que prodría hacerse de otro modo.
+Traes tus inquietudes / problemas con [Rust](https://www.rust-lang.org/), los temas en los que estás trabajando o te gustaría participar, tus descubrimientos sobre [Rust](https://www.rust-lang.org/), esa parte de código con la que no avanzas o qué prodría hacerse de otro modo.
 
 Eres novato(a) y no sabes cómo empezar o tras hacer ciertas cosas ver qué podrías explorar, etc.
 
