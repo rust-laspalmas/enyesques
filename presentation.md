@@ -1,5 +1,7 @@
 # De Enyesque con Rust Las Palmas- Octubre 2024
 
+<a href="https://rust-laspalmas.dev"><img style="margin: 1em 0em;border: 0" width="250" alt="Enyesque Rust Las Palmas Dev" src="images/enyesque-rust-laspalmas.svg"></a>
+
 Queremos celebrar con desarrolladores locales de [Rust](https://www.rust-lang.org/): experiencias, proyectos, retos e inquietudes.
 Te invitamos a un encuentro diseñado para facilitar conversaciones cara a cara con interacciones desde el minuto uno.
 La propuesta es interactiva, la vamos completando sobre la marcha en común.
@@ -54,4 +56,6 @@ Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadore
 
 Si no puedes asistir y te interesa lo que hacemos puedes unirte a nuestro [servidor en Discord](https://discord.gg/pxkpukJdrB) o seguirnos por el [espacio web rust-laspalmas.dev](https://rust-laspalmas.dev), [email](mailto:info@rust-laspalmas.dev), o respositorios de [git rust-laspalmas.dev](https://github.com/rust-laspalmas)
 
-¡Esperamos tu participación en vivo y en directo !
+> **¡Esperamos tu participación en vivo y en directo !**
+
+<a href="https://rust-laspalmas.dev"><img style="margin: 1em 0em;border: 0" width="250" alt="Enyesque Rust Las Palmas Dev" src="images/enyesque-rust-laspalmas.svg"></a>
