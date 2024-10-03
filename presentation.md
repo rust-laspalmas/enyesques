@@ -28,6 +28,8 @@ Hemos elaborado una propuesta abierta, informal y sencilla con metáforas, alusi
 
 Y como hay que ofrecer una experiencia saludable y de calidad al más alto nivel, pedimos a cada asistente que contribuya con **19 euros** para sufragar los gastos básicos, no los de elaboración, te pediremos que no traigas comida o bebida adicional, contigo ya es más que suficiente. Haremos lista de espera llegado el caso.
 
+---
+
 Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadores, si tienes experiencia con [Rust](https://www.rust-lang.org/) notarás que tiene alegorías, si no las entiendes ya tendremos oportunidad de comentarlas en el ecuentro. No es que vayamos a hablar de ello seguro, es simplemente parte del maridage entre cocina y programación en [Rust](https://www.rust-lang.org/).
 
 **Menú genérico< Invitado >**
@@ -50,6 +52,8 @@ Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadore
 **Precio por persona 19 euros**
 
 Si tienes cualquier duda, pregunta, sugerencia y/o intoleracia o restricción alimentaria (no atendemos alérgias al COBOL, PHP, etc.) estamos a tu disposición.
+
+---
 
 > Para inscribirte mándanos un email directamente o con click aquí: <br> 
 > [info@rust-laspalmas.dev](mailto:info@rust-laspalmas.dev?subject=INSCRIPCION%3A%20De%20Enyesque%20con%20Rust%20LasPalmas.%20Octubre%202024)<br>
