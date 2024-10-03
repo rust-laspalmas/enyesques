@@ -14,7 +14,7 @@ Eres novato(a) y no sabes cómo empezar o tras hacer ciertas cosas ver qué podr
 
 Es algo que haremos juntos, que ocurrirá sólo en ese preciso momento del encuentro cara a cara, lo que sueceda durante y/o después no lo sabemos ni lo garantizamos, pero si estamos abiertos y ansiosos por descubrirlo.
 
-Y qué mejor manera de encontranos que entorno a una mesa disfrutando de manjares elaborados con cariño y cuidado para la ocasión, celebrando los méritos y/o el valor de usar [Rust](https://www.rust-lang.org/) como ecosistema con sus defectos y virtudes. Claro, que al final es un pretexto para conocernos, encontrarnos y disfrutar de buena comida en compañía.
+Y qué mejor manera de encotrarnos que entorno a una mesa disfrutando de manjares elaborados con cariño y cuidado para la ocasión, celebrando los méritos y/o el valor de usar [Rust](https://www.rust-lang.org/) como ecosistema con sus defectos y virtudes. Claro, que al final es un pretexto para conocernos, encontrarnos y disfrutar de buena comida en compañía.
 
 Crecer con otros y caminar acompañado es un privilegio que a veces no se da con frecuencia, salvo que queramos incluir Copilot, codespaces, los mensajes del compilador de [Rust](https://www.rust-lang.org/), etc. en la misma ecuación. Algunos pensamos que francamente no es lo mismo.
 
