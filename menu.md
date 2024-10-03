@@ -4,7 +4,7 @@
 
 0 - Borrow Checking: Bienvenida. Entrando en materia.
 
-1 - Match Result típico italiano al modo local. Some(Propuesta::<sabroso, aromático,crujiente>).
+1 - Match Result típico italiano al modo local. Some(Propuesta::<sabrosa, aromática,crujiente>).
 
 2 - Experiencia Organoléptica desde la inmutabilidad: lifetime al golpito.
 
