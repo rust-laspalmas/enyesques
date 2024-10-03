@@ -56,7 +56,12 @@ Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadore
 > nos lo comunicas para reservar la plaza lo antes posible.<br>
 > Recibirás confirmación por riguroso orden de inscripción.
 
-Si no puedes asistir y te interesa lo que hacemos puedes unirte a nuestro [servidor en Discord](https://discord.gg/pxkpukJdrB) o seguirnos por el [espacio web rust-laspalmas.dev](https://rust-laspalmas.dev), [email](mailto:info@rust-laspalmas.dev), o respositorios de [git rust-laspalmas.dev](https://github.com/rust-laspalmas)
+Si no puedes asistir y te interesa lo que hacemos puedes:
+
+- unirte a nuestro [servidor en Discord](https://discord.gg/pxkpukJdrB)
+- seguirnos por el [espacio web rust-laspalmas.dev](https://rust-laspalmas.dev)
+- contactar víaa [email](mailto:info@rust-laspalmas.dev)
+- seguir los respositorios de [git rust-laspalmas.dev](https://github.com/rust-laspalmas)
 
 > **¡Esperamos tu participación en vivo y en directo !**
 
