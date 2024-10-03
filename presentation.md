@@ -23,7 +23,7 @@ No tienes que tener un nivel o experiencia determinados, pero si iniciativa, val
 Hemos elaborado una propuesta abierta, informal y sencilla con metáforas, alusiones y guiños para que sea una aventura, una experiencia única, cuando menos diferente.
 
 > [Nautilus](https://nautilus-cyberneering.de/), empresa local en [C. Fernando Guanarteme 14 Santa Brígida Las Palmas](https://maps.app.goo.gl/ecUfxkpjKJPr6wuLA) (entrada por arriba, por la cancela)<br>
-> nos ofrece sus oficinas, cocina inlcuída (dato importante), para que podamos celebrar el encuentro <br>
+> nos ofrece sus oficinas, cocina inlcuída (dato importante), para que podamos celebrar el encuentro el<br>
 > **24 de Ocubre de 17:30 a 21:30** con **aforo limitado a 10 personas**
 
 Y como hay que ofrecer una experiencia saludable y de calidad al más alto nivel, pedimos a cada asistente que contribuya con **19 euros** para sufragar los gastos básicos, no los de elaboración, te pediremos que no traigas comida o bebida adicional, contigo ya es más que suficiente. Haremos lista de espera llegado el caso.
