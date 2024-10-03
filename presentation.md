@@ -56,7 +56,7 @@ Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadore
 > nos lo comunicas para reservar la plaza lo antes posible.<br>
 > Recibirás confirmación por riguroso orden de inscripción.
 
-Si no puedes asistir y te interesa lo que hacemos puedes:
+Si no puedes asistir y te interesa lo que hacemos en **rust-laspalmas.dev** puedes:
 
 - unirte a nuestro [servidor en Discord](https://discord.gg/pxkpukJdrB)
 - seguirnos por el [espacio web rust-laspalmas.dev](https://rust-laspalmas.dev)
@@ -69,6 +69,6 @@ Si no puedes asistir y te interesa lo que hacemos puedes:
 
 Organizadores, responables de cocina:
 
+- Constantin Bosse (responsable de [Nautilus](https://nautilus-cyberneering.de/))
 - José Celano
-- Constantin Bosse
 - Jesús Pérez
