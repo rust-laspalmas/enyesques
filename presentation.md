@@ -23,11 +23,11 @@ Hemos elaborado una propuesta abierta, con metáforas, alusiones y guiños para 
 
 Se trata de algo informal y en pequeñito, para la grandielocuencia, el bombo y platillo, etc ya están otros lenguajes de programación y convocatorias.
 
-Y como hay que ofrecer una experiencia saludable y de calidad al más alto nivel, pedimos a cada asistente que contribuya con **19 euros** para sufragar los gastos básicos no los de elaboración, te pediremos que no traigas comida o bebida adicional, contigo ya es más que suficiente. Haremos lista de espera llegado el caso.
+Y como hay que ofrecer una experiencia saludable y de calidad al más alto nivel, pedimos a cada asistente que contribuya con **19 euros** para sufragar los gastos básicos, no los de elaboración, te pediremos que no traigas comida o bebida adicional, contigo ya es más que suficiente. Haremos lista de espera llegado el caso.
 
 Si tienes cualquier duda, pregunta, suguerencia y/o intoleracia o restricción alimentaria (no atendemos alérgias al COBOL, PHP, etc) estamos a tu disposición por cualquiera de los canales (email, Discord).
 
-Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadores, si tienes experiencia con [Rust](https://www.rust-lang.org/) notarás que tiene alegorías, si no last entiendes ya tendremos oportunidad de comentarlas en el ecuentro. No es que vayamos a hablar de ello seguro, es simplemente parte del maridage entre cocina y programación en [Rust](https://www.rust-lang.org/).
+Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadores, si tienes experiencia con [Rust](https://www.rust-lang.org/) notarás que tiene alegorías, si no las entiendes ya tendremos oportunidad de comentarlas en el ecuentro. No es que vayamos a hablar de ello seguro, es simplemente parte del maridage entre cocina y programación en [Rust](https://www.rust-lang.org/).
 
 **Menú genérico< Invitado >**
 <small>Experiencia gastronómica privada creada por los organizadores</small>
