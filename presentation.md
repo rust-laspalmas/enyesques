@@ -64,6 +64,6 @@ Si no puedes asistir y te interesa lo que hacemos puedes unirte a nuestro [servi
 
 Organizadores, responables de cocina:
 
-José Celano
-Constantin Bosse
-Jesús Pérez
+- José Celano
+- Constantin Bosse
+- Jesús Pérez
