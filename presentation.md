@@ -3,10 +3,13 @@
 <a href="https://rust-laspalmas.dev"><img style="margin: 1em 0em;border: 0" width="250" alt="Enyesque Rust Las Palmas Dev" src="images/enyesque-rust-laspalmas.svg"></a>
 
 Queremos celebrar con desarrolladores locales de [Rust](https://www.rust-lang.org/): experiencias, proyectos, retos e inquietudes.
+
 Te invitamos a un encuentro diseñado para facilitar conversaciones cara a cara con interacciones desde el minuto uno.
+
 La propuesta es interactiva, la vamos completando sobre la marcha en común.
 
 Traes tus inquietudes / problemas con [Rust](https://www.rust-lang.org/), los temas en los que estás trabajando o te gustaría participar, tus descubrimientos sobre [Rust](https://www.rust-lang.org/), esa parte de código con la que no avanzas o que prodría hacerse de otro modo.
+
 Eres novato(a) y no sabes cómo empezar o tras hacer ciertas cosas ver qué podrías explorar, etc.
 
 Es algo que haremos juntos, que ocurrirá sólo en ese preciso momento del encuentro cara a cara, lo que sueceda durante y/o después no lo sabemos ni lo garantizamos, pero si estamos abiertos y ansiosos por descubrirlo.
