@@ -17,8 +17,8 @@ No tienes que tener un nivel o experiencia determinados, pero si iniciativa, val
 
 Hemos elaborado una propuesta abierta, con metáforas, alusiones y guiños para que sea una aventura, una experiencia única, cuando menos diferente.
 
-> [Nautilus](https://nautilus-cyberneering.de/), empresa local en Santa Brígida
-> nos ofrece sus oficinas, cocina inlcuída (dato importante), para que podamos celebrar el encuentro
+> [Nautilus](https://nautilus-cyberneering.de/), empresa local en Santa Brígida<br>
+> nos ofrece sus oficinas, cocina inlcuída (dato importante), para que podamos celebrar el encuentro <br>
 > **24 de Ocubre de 17:30 a 21:30** con **aforo limitado a 10 personas**
 
 Se trata de algo informal y en pequeñito, para la grandielocuencia, el bombo y platillo, etc ya están otros lenguajes de programación y convocatorias.
@@ -33,18 +33,24 @@ Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadore
 <small>Experiencia gastronómica privada creada por los organizadores</small>
 
 0 - Borrow Checking: Bienvenida. __Entrando en materia__.
+
 1 - Match Result __típico italiano al modo local__. Some(Propuesta::<sabrosa, aromática,crujiente>).
+
 2 - Experiencia Organoléptica desde la inmutabilidad: __Lifetime al golpito__
+
 3 - Async await, una promesa segura de futuro. El Complemento -> __Delicatessen Paramount.__
+
 4 - __Cocktail al Cargo__, optimizado la performace.
 
-> Ingredientes mayormente locales
-> Ovolacto vegetariano con opciones alternativas sin lactosa, gluten y soja
-> Eludiendo azúcares añadidos y procesados
+> Ingredientes mayormente locales<br>
+> Ovolacto vegetariano con opciones alternativas sin lactosa, gluten y soja<br>
+> Eludiendo azúcares añadidos y procesados<br>
 
 **Precio por persona 19 euros**
 
-> Para inscribirte mándanos un email directamente o con click aquí [info@rust-laspalmas.dev](mailto:info@rust-laspalmas.dev?subject=INSCRIPCION%3A%20De%20Enyesque%20con%20Rust%20LasPalmas.%20Octubre%202024) nos lo comunicas para reservar la plaza lo antes posible. Recibirás confirmación por riguroso orden de inscripción.
+> Para inscribirte mándanos un email directamente o con click aquí[info@rust-laspalmas.dev](mailto:info@rust-laspalmas.dev?subject=INSCRIPCION%3A%20De%20Enyesque%20con%20Rust%20LasPalmas.%20Octubre%202024)<br>
+> nos lo comunicas para reservar la plaza lo antes posible.<br>
+> Recibirás confirmación por riguroso orden de inscripción.
 
 Si no puedes asistir y te interesa lo que hacemos puedes unirte a nuestro [servidor en Discord](https://discord.gg/pxkpukJdrB) o seguirnos por el [espacio web rust-laspalmas.dev](https://rust-laspalmas.dev), [email](mailto:info@rust-laspalmas.dev), o respositorios de [git rust-laspalmas.dev](https://github.com/rust-laspalmas)
 
