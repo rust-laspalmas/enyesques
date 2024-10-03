@@ -23,13 +23,16 @@
 ## Para Cocina
 
 0 - Bebidas calientes y frías con picoteo enyesqye básico: aceitunas, almendras, altramuces, queso local, mojo o almogrote, paté de judias, humus, etc. Pan bizcochado.
-    [ entrantes proteicos y oleaginosos combinados 
+    [ bebidas tonificantes, entrantes proteicos y oleaginosos combinados ]
 
 1 - Focaccia, tomate con orégano Tejeda, berenjenas a la parmesana, ensalada verde con rúcula.
+    [ carbohidratos con vegetales y aceite crudo, opcional tono picante ]
 
 2 - Combinación de verduras salteadas al dente, cocinadas estilo wok, acompañadas de arroz aromático con toque de algas y setas plancha o en aceite crudo.
+    [ verduras con arroz, algas y setas, al estilo oriental, opción picante y aderezos ] 
 
-3 - Postres de temperatura ambiente basados en coco, frutas de temporada sin azúcares, bebidas vegetales, frutos secos hidratados, semillas y especias.
+3 - Postres de temperatura ambiente basados en coco, frutas de temporada sin azúcares añadidos, bebidas vegetales, frutos secos hidratados, semillas y especias.
+    [ postres no fríos, sin azúcares añadidos, opción miel ]
 
 4 - Bebidas calientes y frías recuperando lo que aún quede por consumir. 
 
