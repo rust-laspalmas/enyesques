@@ -1,6 +1,6 @@
 # Enyesque Octubre 2024
 
-## Menú genérico<V>
+## Menú genérico< Invitado >
 
 0 - Borrow Checking: Bienvenida. Entrando en materia.
 
