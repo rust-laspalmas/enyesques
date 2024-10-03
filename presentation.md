@@ -50,7 +50,7 @@ Te dejamos aquí el **Menú** para la ocasión que elaboraremos los organizadore
 
 **Precio por persona 19 euros**
 
-> Para inscribirte mándanos un email directamente o con click aquí[info@rust-laspalmas.dev](mailto:info@rust-laspalmas.dev?subject=INSCRIPCION%3A%20De%20Enyesque%20con%20Rust%20LasPalmas.%20Octubre%202024)<br>
+> Para inscribirte mándanos un email directamente o con click aquí  [info@rust-laspalmas.dev](mailto:info@rust-laspalmas.dev?subject=INSCRIPCION%3A%20De%20Enyesque%20con%20Rust%20LasPalmas.%20Octubre%202024)<br>
 > nos lo comunicas para reservar la plaza lo antes posible.<br>
 > Recibirás confirmación por riguroso orden de inscripción.
 
