@@ -15,7 +15,7 @@
 
 3 - Async await, una promesa segura de futuro. El Complemento -> __Delicatessen Paramount.__
 
-4 - __Cocktail al Cargo__, optimizado la performace.
+4 - __Cocktail al Cargo__, optimizado la performance.
 
 > Ingredientes mayormente locales<br>
 > Ovolacto vegetariano con opciones alternativas sin lactosa, gluten y soja<br>
